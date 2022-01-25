@@ -8,7 +8,11 @@
 - 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   1 hr 45 mins    █████████████▓░░░░░░░░░░░   55.31 % 
+Makefile     44 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.13 % 
+Markdown     18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+YAML         15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Terraform    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 ```
 <!--END_SECTION:waka-->
 
