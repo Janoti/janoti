@@ -8,8 +8,6 @@
 - 
 <!--START_SECTION:waka-->
 ```text
-Total: 4 hrs 10 mins
-
 YAML         1 hr 54 mins    ███████████▒░░░░░░░░░░░░░   45.69 % 
 JavaScript   1 hr 1 min      ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
 Bash         44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.59 % 
