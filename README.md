@@ -9,12 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   26 mins         ██████████░░░░░░░░░░░░░░░   39.53 %
-YAML         19 mins         ███████▒░░░░░░░░░░░░░░░░░   29.25 %
-Makefile     14 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.19 %
-Markdown     4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-SQL          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
