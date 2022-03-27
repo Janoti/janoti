@@ -9,8 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Bash       33 mins         ████████████████████████▓   98.88 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Bash   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
