@@ -45,7 +45,7 @@ Infrastructure and DevOps challenge project showcasing skills in CI/CD, containe
 ## 🃏 Side Project — VaultSpell
 
 > *The all-in-one Magic: The Gathering companion app — built by a player, for players.*
-
+### ⚙️[vaultspell](https://github.com/Janoti/magicvault)
 🔗 **[vaultspell.com](https://vaultspell.com)**
 
 - **Problem:** MTG players juggle 3–5 different tools just to manage their collection, build decks, track prices, and find local events.
