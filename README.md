@@ -42,6 +42,24 @@ Infrastructure and DevOps challenge project showcasing skills in CI/CD, containe
 
 &nbsp;
 
+## 🃏 Side Project — VaultSpell
+
+> *The all-in-one Magic: The Gathering companion app — built by a player, for players.*
+
+🔗 **[vaultspell.com](https://vaultspell.com)**
+
+- **Problem:** MTG players juggle 3–5 different tools just to manage their collection, build decks, track prices, and find local events.
+- **Solution:** VaultSpell brings everything into one place — collection manager, AI-powered deck analysis, real-time price tracking (USD & BRL), wishlist, trade/sell marketplace, and a local events & stores directory.
+- **Stack:** `React` · `Node.js` · `Scryfall API` · `AI/LLM` · `PostgreSQL`
+- **Status:** Beta — actively developed, new features shipped weekly.
+- Available in 🇧🇷 Portuguese · 🇺🇸 English · 🇪🇸 Spanish
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+&nbsp;
+
 ## 🧪 Professional Experience & Private Projects
 
 Projects built in production environments with proprietary code — happy to discuss the approaches and architectures behind them.
@@ -83,4 +101,5 @@ Projects built in production environments with proprietary code — happy to dis
 ## 📬 Contact
 
 💼 **LinkedIn:** [linkedin.com/in/janotijr](https://linkedin.com/in/janotijr/)  
-🐙 **GitHub:** [github.com/Janoti](https://github.com/Janoti)
+🐙 **GitHub:** [github.com/Janoti](https://github.com/Janoti)  
+🃏 **VaultSpell:** [vaultspell.com](https://vaultspell.com)
